@@ -1,0 +1,7 @@
+# Local artifacts
+__pycache__/
+*.pyc
+*.tmp
+.halt-lease.lock
+state/
+artifacts/
